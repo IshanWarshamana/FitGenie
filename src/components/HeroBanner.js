@@ -22,7 +22,7 @@ const HeroBanner = () => {
         And Repeat
       </Typography>
       <Typography fontSize="22px" fontFamily="Alegreya" lineHeight="35px">
-        Check out the new exercises & workouts
+        Check out the new exercises and workouts
       </Typography>
       <Stack>
         <a
